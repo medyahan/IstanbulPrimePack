@@ -1,0 +1,35 @@
+{
+    "redirects": [
+      {
+        "source": "/Sayfa.aspx",
+        "has": [{ "type": "query", "key": "SayfaID", "value": "1040" }],
+        "destination": "/hakkimizda",
+        "permanent": true
+      },
+      {
+        "source": "/Sayfa.aspx",
+        "has": [{ "type": "query", "key": "SayfaID", "value": "1041" }],
+        "destination": "/hakkimizda",
+        "permanent": true
+      },
+      {
+        "source": "/Hizmetler.aspx",
+        "has": [{ "type": "query", "key": "KatID", "value": "15" }],
+        "destination": "/products",
+        "permanent": true
+      },
+      {
+        "source": "/Hizmetler.aspx",
+        "has": [{ "type": "query", "key": "KatID", "value": "14" }],
+        "destination": "/products",
+        "permanent": true
+      },
+      {
+        "source": "/UrunDetay.aspx",
+        "has": [{ "type": "query", "key": "HizmetID", "value": "162" }],
+        "destination": "/products",
+        "permanent": true
+      }
+    ]
+  }
+  
