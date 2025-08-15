@@ -61,7 +61,7 @@ const Header = () => {
           to="/"
           sx={{ display: "flex", alignItems: "center", textDecoration: "none" }}
         >
-          <img src={headerData.logo} alt="Istanbul Prime Pack Logo" style={{ height: 30 }} />
+          <img src={headerData.logo} alt="Istanbul Prime Pack Logo" style={{ height: 80 }} />
         </Box>
 
         {/* Masaüstü Menü */}

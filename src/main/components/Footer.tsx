@@ -15,7 +15,7 @@ const Footer = () => {
               component="img"
               src={footerData.companyInfo.logo}
               alt="Istanbul Prime Pack Logo"
-              sx={{ height: 40, mb: 2 }}
+              sx={{ height: 120, mb: 2 }}
             />
             <Typography variant="body2" sx={{ mt: 0, opacity: 0.8 }}>
               {footerData.companyInfo.description}
