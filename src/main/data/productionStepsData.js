@@ -10,7 +10,7 @@ import React from "react";
 const productionSteps = {
   title: "Üretim Sürecimiz",
   description:
-  "Medya Ambalaj olarak üretim sürecimizi yedi temel aşamada yürütüyoruz. Müşteri taleplerine göre özelleştirilmiş çözümler sunarak kaliteli ve estetik ambalaj ürünleri üretiyoruz. Her adımda kalite, hassasiyet ve müşteri memnuniyetini ön planda tutuyoruz.",
+  "Istanbul Prime Pack olarak üretim sürecimizi yedi temel aşamada yürütüyoruz. Müşteri taleplerine göre özelleştirilmiş çözümler sunarak kaliteli ve estetik ambalaj ürünleri üretiyoruz. Her adımda kalite, hassasiyet ve müşteri memnuniyetini ön planda tutuyoruz.",
   steps: [
     {
       id: 1,

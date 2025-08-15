@@ -64,34 +64,34 @@ const Products = () => {
   return (
     <Layout>
       <Helmet>
-  <title>Ürünler | Medya Ambalaj</title>
+  <title>Ürünler | Istanbul Prime Pack</title>
   <meta
     name="description"
-    content="Medya Ambalaj'ın sunduğu baskı ve ambalaj ürünlerini keşfedin. Kaliteli üretim, özel tasarım ve hızlı teslimat avantajlarıyla hizmetinizdeyiz."
+    content="Istanbul Prime Pack'ın sunduğu baskı ve ambalaj ürünlerini keşfedin. Kaliteli üretim, özel tasarım ve hızlı teslimat avantajlarıyla hizmetinizdeyiz."
   />
   <meta
     name="keywords"
-    content="ambalaj ürünleri, baskı çözümleri, kutu tasarımı, etiket, Medya Ambalaj"
+    content="ambalaj ürünleri, baskı çözümleri, kutu tasarımı, etiket, Istanbul Prime Pack"
   />
   <meta name="robots" content="index, follow" />
-  <meta property="og:title" content="Ürünler | Medya Ambalaj" />
+  <meta property="og:title" content="Ürünler | Istanbul Prime Pack" />
   <meta property="og:description" content="Yaratıcı ve kaliteli baskı çözümleriyle ürettiğimiz ambalaj ürünlerine göz atın." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com/products" />
-  <link rel="canonical" href="https://www.medyaambalaj.com/products" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com/products" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com/products" />
 
   {/* Structured Data - ItemList */}
   <script type="application/ld+json">
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "ItemList",
-      "name": "Medya Ambalaj Ürünleri",
-      "url": "https://www.medyaambalaj.com/products",
+      "name": "Istanbul Prime Pack Ürünleri",
+      "url": "https://www.istanbulprimepack.com/products",
       "numberOfItems": filteredProducts.length,
       "itemListElement": paginatedProducts.map((product, index) => ({
         "@type": "ListItem",
         "position": (page - 1) * itemsPerPage + index + 1,
-        "url": `https://www.medyaambalaj.com/product/${product.id}`,
+        "url": `https://www.istanbulprimepack.com/product/${product.id}`,
         "name": product.title
       }))
     })}
@@ -189,7 +189,7 @@ const Products = () => {
                     component="img"
                     height="50%"
                     image={product.images[0]}
-                    alt={`Medya Ambalaj ürünü: ${product.title}`}
+                    alt={`Istanbul Prime Pack ürünü: ${product.title}`}
                   />
                   <CardContent>
                     <Typography

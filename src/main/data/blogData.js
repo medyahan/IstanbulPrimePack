@@ -80,7 +80,7 @@ const blogData = {
       - Kurumsal işler, toplu dağıtım materyalleri veya markanızı yansıtan yüksek kaliteli ürünler için "ofset baskı"" en doğru tercih olacaktır.
       - Az adetli, hızlı teslimat isteyen veya kişiye özel ürünler içinse "dijital baskı" hem ekonomik hem de pratiktir.
       
-      > Medya Ambalaj olarak her iki yöntemde de yüksek kalite ve müşteri memnuniyetini ön planda tutuyoruz. Projenize en uygun çözüm için bizimle iletişime geçebilirsiniz.
+      > Istanbul Prime Pack olarak her iki yöntemde de yüksek kalite ve müşteri memnuniyetini ön planda tutuyoruz. Projenize en uygun çözüm için bizimle iletişime geçebilirsiniz.
       `
       }
       ,
@@ -132,7 +132,7 @@ const blogData = {
       
       Kaliteli baskılar için sadece tasarım değil, "doğru malzeme seçimi" de belirleyicidir. Tasarımın türü, kullanım amacı, hedef kitle ve bütçeye göre en uygun kağıt, mürekkep ve kaplama kombinasyonu tercih edilmelidir. Bu sayede hem estetik hem de fonksiyonel açıdan başarılı sonuçlar elde edilir.
       
-      > Medya Ambalaj olarak her projenin ihtiyacına uygun malzemeleri titizlikle seçiyor, yüksek kaliteli baskı çözümleri sunuyoruz. Daha fazla bilgi ve numune talepleriniz için bizimle iletişime geçebilirsiniz.
+      > Istanbul Prime Pack olarak her projenin ihtiyacına uygun malzemeleri titizlikle seçiyor, yüksek kaliteli baskı çözümleri sunuyoruz. Daha fazla bilgi ve numune talepleriniz için bizimle iletişime geçebilirsiniz.
       `
       },
       {
@@ -186,7 +186,7 @@ const blogData = {
       
       Başarılı bir ambalaj tasarımı; "tüketici beklentilerini anlayan, marka kimliğini doğru yansıtan ve aynı zamanda işlevsel" olan bir yapıya sahip olmalıdır. Estetik ile pratikliği birleştiren tasarımlar, sadece ürünü değil, markayı da ön plana çıkarır.
       
-      > Medya Ambalaj olarak, markanızın değerini en iyi şekilde yansıtan ambalaj çözümleri sunuyoruz. Uzman tasarım ekibimizle, ürünlerinize özel yaratıcı çözümler geliştirmek için buradayız.
+      > Istanbul Prime Pack olarak, markanızın değerini en iyi şekilde yansıtan ambalaj çözümleri sunuyoruz. Uzman tasarım ekibimizle, ürünlerinize özel yaratıcı çözümler geliştirmek için buradayız.
       `
       },      
       {
@@ -278,7 +278,7 @@ const blogData = {
       
       Kurumsal kimlik, bir markanın dış dünyaya bıraktığı ilk izlenimdir. Profesyonel ve tutarlı bir kimlik tasarımı; güven oluşturur, marka sadakatini artırır ve sizi rakiplerinizden farklılaştırır.
       
-      > Medya Ambalaj olarak, markanızın kimliğini güçlendirecek logo, renk, tipografi ve tüm kurumsal tasarım unsurlarını bir bütün olarak ele alıyor, yaratıcı çözümler sunuyoruz.
+      > Istanbul Prime Pack olarak, markanızın kimliğini güçlendirecek logo, renk, tipografi ve tüm kurumsal tasarım unsurlarını bir bütün olarak ele alıyor, yaratıcı çözümler sunuyoruz.
       `
       },
       {
@@ -326,7 +326,7 @@ const blogData = {
       
       İyi tasarlanmış bir broşür; bilgi verirken markanızı da güçlü bir şekilde temsil eder. Dikkat çekici başlıklar, dengeli yerleşim, güçlü bir CTA ve kaliteli malzeme ile hazırlanan broşürler, etkili bir pazarlama aracına dönüşür.
       
-      > Medya Ambalaj olarak, işletmenizin ihtiyaçlarına özel özgün broşür tasarımı ve baskı hizmetleri sunuyoruz. Profesyonel ekibimizle etkileyici tanıtım materyalleri için bizimle iletişime geçin.
+      > Istanbul Prime Pack olarak, işletmenizin ihtiyaçlarına özel özgün broşür tasarımı ve baskı hizmetleri sunuyoruz. Profesyonel ekibimizle etkileyici tanıtım materyalleri için bizimle iletişime geçin.
       `
       }
       

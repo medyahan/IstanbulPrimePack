@@ -21,14 +21,14 @@ const FAQ = () => {
   return (
     <Layout>
       <Helmet>
-  <title>Sıkça Sorulan Sorular | Medya Ambalaj</title>
-  <meta name="description" content="Medya Ambalaj hakkında sıkça sorulan soruların cevaplarını bu sayfada bulabilirsiniz. Hizmetlerimiz, süreçler ve daha fazlası hakkında bilgi alın." />
-  <meta name="keywords" content="SSS, sıkça sorulan sorular, medya ambalaj, baskı soruları, ambalaj desteği" />
-  <meta property="og:title" content="Sıkça Sorulan Sorular | Medya Ambalaj" />
-  <meta property="og:description" content="Medya Ambalaj hakkında sıkça merak edilen soruların cevapları burada!" />
+  <title>Sıkça Sorulan Sorular | Istanbul Prime Pack</title>
+  <meta name="description" content="Istanbul Prime Pack hakkında sıkça sorulan soruların cevaplarını bu sayfada bulabilirsiniz. Hizmetlerimiz, süreçler ve daha fazlası hakkında bilgi alın." />
+  <meta name="keywords" content="SSS, sıkça sorulan sorular, istanbul prime pack, baskı soruları, ambalaj desteği" />
+  <meta property="og:title" content="Sıkça Sorulan Sorular | Istanbul Prime Pack" />
+  <meta property="og:description" content="Istanbul Prime Pack hakkında sıkça merak edilen soruların cevapları burada!" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com/faq" />
-  <link rel="canonical" href="https://www.medyaambalaj.com/faq" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com/faq" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com/faq" />
 
   {/* Structured data script */}
   <script type="application/ld+json">

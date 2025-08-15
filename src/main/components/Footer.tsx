@@ -14,7 +14,7 @@ const Footer = () => {
             <Box
               component="img"
               src={footerData.companyInfo.logo}
-              alt="Medya Ambalaj Logo"
+              alt="Istanbul Prime Pack Logo"
               sx={{ height: 40, mb: 2 }}
             />
             <Typography variant="body2" sx={{ mt: 0, opacity: 0.8 }}>

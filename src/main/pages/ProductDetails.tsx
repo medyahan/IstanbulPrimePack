@@ -37,19 +37,19 @@ const ProductDetails = () => {
   return (
     <Layout>
      <Helmet>
-  <title>{`${selectedProduct.title} | Medya Ambalaj`}</title>
+  <title>{`${selectedProduct.title} | Istanbul Prime Pack`}</title>
   <meta
     name="description"
     content={selectedProduct.description?.slice(0, 160) || "Kaliteli baskı ve ambalaj çözümleri için detaylara göz atın."}
   />
   <meta name="keywords" content={selectedProduct.categories.join(", ")} />
   <meta name="robots" content="index, follow" />
-  <meta property="og:title" content={`${selectedProduct.title} | Medya Ambalaj`} />
+  <meta property="og:title" content={`${selectedProduct.title} | Istanbul Prime Pack`} />
   <meta property="og:description" content={selectedProduct.description?.slice(0, 160)} />
-  <meta property="og:image" content={selectedProduct.images?.[0] || "https://www.medyaambalaj.com/default-og-image.jpg"} />
+  <meta property="og:image" content={selectedProduct.images?.[0] || "https://www.istanbulprimepack.com/default-og-image.jpg"} />
   <meta property="og:type" content="product" />
-  <meta property="og:url" content={`https://www.medyaambalaj.com/products/${selectedProduct.id}`} />
-  <link rel="canonical" href={`https://www.medyaambalaj.com/products/${selectedProduct.id}`} />
+  <meta property="og:url" content={`https://www.istanbulprimepack.com/products/${selectedProduct.id}`} />
+  <link rel="canonical" href={`https://www.istanbulprimepack.com/products/${selectedProduct.id}`} />
 
   {/* Schema.org Structured Data for Product */}
   <script type="application/ld+json">
@@ -61,10 +61,10 @@ const ProductDetails = () => {
       "description": selectedProduct.description,
       "brand": {
         "@type": "Organization",
-        "name": "Medya Ambalaj"
+        "name": "Istanbul Prime Pack"
       },
       "category": selectedProduct.categories.join(", "),
-      "url": `https://www.medyaambalaj.com/products/${selectedProduct.id}`
+      "url": `https://www.istanbulprimepack.com/products/${selectedProduct.id}`
     })}
   </script>
 </Helmet>

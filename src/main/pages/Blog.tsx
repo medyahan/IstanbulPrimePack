@@ -66,15 +66,15 @@ const Blog = () => {
   return (
     <Layout>
       <Helmet>
-        <title>Blog | Medya Ambalaj</title>
-        <meta name="description" content="Medya Ambalaj blog sayfasında baskı teknolojileri, ambalaj tasarımı ve sektör trendleri hakkında bilgi edinin." />
-        <meta name="keywords" content="blog, medya ambalaj, baskı, tasarım, ambalaj, üretim, trendler" />
+        <title>Blog | Istanbul Prime Pack</title>
+        <meta name="description" content="Istanbul Prime Pack blog sayfasında baskı teknolojileri, ambalaj tasarımı ve sektör trendleri hakkında bilgi edinin." />
+        <meta name="keywords" content="blog, istanbul prime pack, baskı, tasarım, ambalaj, üretim, trendler" />
         <meta name="robots" content="index, follow" />
-        <meta property="og:title" content="Blog | Medya Ambalaj" />
-        <meta property="og:description" content="Baskı ve ambalaj sektöründeki en güncel yazılara Medya Ambalaj blog sayfasından ulaşın." />
+        <meta property="og:title" content="Blog | Istanbul Prime Pack" />
+        <meta property="og:description" content="Baskı ve ambalaj sektöründeki en güncel yazılara Istanbul Prime Pack blog sayfasından ulaşın." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.medyaambalaj.com/blog" />
-        <link rel="canonical" href="https://www.medyaambalaj.com/blog" />
+        <meta property="og:url" content="https://www.istanbulprimepack.com/blog" />
+        <link rel="canonical" href="https://www.istanbulprimepack.com/blog" />
       </Helmet>
 
       <ReusableBackground>

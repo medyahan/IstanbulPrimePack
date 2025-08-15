@@ -131,23 +131,23 @@ const Quote = () => {
   return (
     <Layout>
   <Helmet>
-  <title>Teklif Al | Medya Ambalaj</title>
+  <title>Teklif Al | Istanbul Prime Pack</title>
   <meta
     name="description"
-    content="İhtiyacınıza özel baskı ve ambalaj çözümleri için hemen teklif alın. Medya Ambalaj, kaliteli üretim ve hızlı teslimat ile hizmetinizde!"
+    content="İhtiyacınıza özel baskı ve ambalaj çözümleri için hemen teklif alın. Istanbul Prime Pack, kaliteli üretim ve hızlı teslimat ile hizmetinizde!"
   />
   <meta
     name="keywords"
-    content="baskı teklif formu, ambalaj teklifi, medya ambalaj, özel kutu üretimi"
+    content="baskı teklif formu, ambalaj teklifi, istanbul prime pack, özel kutu üretimi"
   />
-  <meta property="og:title" content="Teklif Al | Medya Ambalaj" />
+  <meta property="og:title" content="Teklif Al | Istanbul Prime Pack" />
   <meta
     property="og:description"
     content="Karton kutu, etiket, broşür ve tüm baskı işleriniz için hızlı teklif alın."
   />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com/quote" />
-  <link rel="canonical" href="https://www.medyaambalaj.com/quote" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com/quote" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com/quote" />
 
   <script
     type="application/ld+json"
@@ -158,14 +158,14 @@ const Quote = () => {
         "name": "Teklif Al",
         "provider": {
           "@type": "Organization",
-          "name": "Medya Ambalaj",
-          "url": "https://www.medyaambalaj.com"
+          "name": "Istanbul Prime Pack",
+          "url": "https://www.istanbulprimepack.com"
         },
         "areaServed": "Türkiye",
         "serviceType": "Ambalaj ve Baskı Hizmetleri",
         "availableChannel": {
           "@type": "ServiceChannel",
-          "serviceUrl": "https://www.medyaambalaj.com/quote"
+          "serviceUrl": "https://www.istanbulprimepack.com/quote"
         }
       })
     }}
@@ -220,7 +220,7 @@ const Quote = () => {
       name="companyName"
       value={quoteFormData.companyName}
       onChange={handleChange}
-      placeholder="Örnek: Medya Ambalaj"
+      placeholder="Örnek: Istanbul Prime Pack"
       margin="normal"
       required
     />
@@ -232,7 +232,7 @@ const Quote = () => {
   type="email"
   value={quoteFormData.email}
   onChange={handleChange}
-  placeholder="Örnek: ornek@medyaambalaj.com"
+  placeholder="Örnek: ornek@istanbulprimepack.com"
   margin="normal"
   required
 />

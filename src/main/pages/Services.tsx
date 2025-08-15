@@ -11,23 +11,23 @@ const Services = () => {
   return (
     <Layout>
       <Helmet>
-  <title>Hizmetler | Medya Ambalaj</title>
+  <title>Hizmetler | Istanbul Prime Pack</title>
   <meta
     name="description"
-    content="Medya Ambalaj olarak sunduğumuz baskı, kutu tasarımı, etiket ve ambalaj çözümlerine göz atın. Kaliteli ve profesyonel hizmetlerimizle tanışın."
+    content="Istanbul Prime Pack olarak sunduğumuz baskı, kutu tasarımı, etiket ve ambalaj çözümlerine göz atın. Kaliteli ve profesyonel hizmetlerimizle tanışın."
   />
   <meta
     name="keywords"
-    content="ambalaj hizmetleri, baskı hizmeti, medya ambalaj, kutu üretimi, etiket tasarımı, baskı çözümleri"
+    content="ambalaj hizmetleri, baskı hizmeti, istanbul prime pack, kutu üretimi, etiket tasarımı, baskı çözümleri"
   />
-  <meta property="og:title" content="Hizmetler | Medya Ambalaj" />
+  <meta property="og:title" content="Hizmetler | Istanbul Prime Pack" />
   <meta
     property="og:description"
-    content="Baskıdan etiketlemeye, kutu tasarımından ambalaja kadar birçok hizmeti Medya Ambalaj güvencesiyle sunuyoruz."
+    content="Baskıdan etiketlemeye, kutu tasarımından ambalaja kadar birçok hizmeti Istanbul Prime Pack güvencesiyle sunuyoruz."
   />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com/services" />
-  <link rel="canonical" href="https://www.medyaambalaj.com/services" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com/services" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com/services" />
 </Helmet>
 
       <ReusableBackground>

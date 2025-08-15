@@ -12,23 +12,23 @@ const TeamAndProduction = () => {
   return (
     <Layout>
       <Helmet>
-  <title>Ekibimiz ve Üretim Süreci | Medya Ambalaj</title>
+  <title>Ekibimiz ve Üretim Süreci | Istanbul Prime Pack</title>
   <meta
     name="description"
-    content="Medya Ambalaj’ın yaratıcı ve uzman ekibini tanıyın. Üretim süreçlerimizi yakından inceleyerek kaliteli baskı çözümlerimizin arkasındaki sistemi keşfedin."
+    content="Istanbul Prime Pack’in yaratıcı ve uzman ekibini tanıyın. Üretim süreçlerimizi yakından inceleyerek kaliteli baskı çözümlerimizin arkasındaki sistemi keşfedin."
   />
   <meta
     name="keywords"
-    content="medya ambalaj, ekip, üretim süreci, baskı aşamaları, profesyonel ambalaj, üretim kalitesi"
+    content="istanbul prime pack, ekip, üretim süreci, baskı aşamaları, profesyonel ambalaj, üretim kalitesi"
   />
-  <meta property="og:title" content="Ekibimiz ve Üretim Süreci | Medya Ambalaj" />
+  <meta property="og:title" content="Ekibimiz ve Üretim Süreci | Istanbul Prime Pack" />
   <meta
     property="og:description"
-    content="Uzman ekibimiz ve kaliteli üretim sürecimizle Medya Ambalaj, markanız için en iyi baskı çözümlerini sunar."
+    content="Uzman ekibimiz ve kaliteli üretim sürecimizle Istanbul Prime Pack, markanız için en iyi baskı çözümlerini sunar."
   />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com/team-and-production" />
-  <link rel="canonical" href="https://www.medyaambalaj.com/team-and-production" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com/team-and-production" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com/team-and-production" />
 </Helmet>
 
       <ReusableBackground>

@@ -12,15 +12,15 @@ const References = () => {
   return (
     <Layout>
       <Helmet>
-  <title>Referanslar | Medya Ambalaj</title>
-  <meta name="description" content="Medya Ambalaj olarak iş birliği yaptığımız seçkin markaları ve müşteri yorumlarını bu sayfada inceleyebilirsiniz." />
-  <meta name="keywords" content="referanslar, müşteri yorumları, medya ambalaj, kurumsal iş birlikleri, ambalaj müşteri görüşleri" />
+  <title>Referanslar | Istanbul Prime Pack</title>
+  <meta name="description" content="Istanbul Prime Pack olarak iş birliği yaptığımız seçkin markaları ve müşteri yorumlarını bu sayfada inceleyebilirsiniz." />
+  <meta name="keywords" content="referanslar, müşteri yorumları, istanbul prime pack, kurumsal iş birlikleri, ambalaj müşteri görüşleri" />
   <meta name="robots" content="index, follow" />
-  <meta property="og:title" content="Referanslar | Medya Ambalaj" />
+  <meta property="og:title" content="Referanslar | Istanbul Prime Pack" />
   <meta property="og:description" content="Ambalaj sektöründe birlikte çalıştığımız firmalar ve projelere göz atın. Müşteri memnuniyetini ön planda tutuyoruz." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com/references" />
-  <link rel="canonical" href="https://www.medyaambalaj.com/references" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com/references" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com/references" />
 
   <script
     type="application/ld+json"
@@ -29,8 +29,8 @@ const References = () => {
         "@context": "https://schema.org",
         "@type": "WebPage",
         "name": "Referanslar",
-        "description": "Medya Ambalaj olarak iş birliği yaptığımız markalar ve müşteri yorumlarını inceleyin.",
-        "url": "https://www.medyaambalaj.com/references",
+        "description": "Istanbul Prime Pack olarak iş birliği yaptığımız markalar ve müşteri yorumlarını inceleyin.",
+        "url": "https://www.istanbulprimepack.com/references",
         "mainEntity": referencesData.logos.map((logo) => ({
           "@type": "Organization",
           "name": logo.id,
@@ -109,7 +109,7 @@ const References = () => {
                   >
                     <img 
                       src={src} 
-                      alt={`Medya Ambalaj müşterisi: ${id}`} 
+                      alt={`Istanbul Prime Pack müşterisi: ${id}`} 
                       style={{ maxWidth: "80%", maxHeight: "80px", objectFit: "contain" }} 
                     />
                   </Box>

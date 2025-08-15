@@ -13,19 +13,19 @@ const About = () => {
   return (
     <Layout>
       <Helmet>
-        <title>Hakkımızda | Medya Ambalaj</title>
+        <title>Hakkımızda | Istanbul Prime Pack</title>
         <meta
           name="description"
-          content="Medya Ambalaj olarak yaratıcı ambalaj çözümleri, vizyonumuz ve misyonumuz ile matbaa sektöründe fark yaratıyoruz. Neden bizi tercih etmelisiniz, öğrenin."
+          content="Istanbul Prime Pack olarak yaratıcı ambalaj çözümleri, vizyonumuz ve misyonumuz ile matbaa sektöründe fark yaratıyoruz. Neden bizi tercih etmelisiniz, öğrenin."
         />
-        <meta name="keywords" content="ambalaj, matbaa, baskı, özel kutu, tasarım, vizyon, misyon, medya ambalaj" />
+        <meta name="keywords" content="ambalaj, matbaa, baskı, özel kutu, tasarım, vizyon, misyon, istanbul prime pack" />
         <meta name="robots" content="index, follow" />
-        <meta property="og:title" content="Hakkımızda | Medya Ambalaj" />
-        <meta property="og:description" content="Matbaa ve baskı sektöründe Medya Ambalaj'ın vizyonu, misyonu ve başarıları hakkında bilgi edinin." />
+        <meta property="og:title" content="Hakkımızda | Istanbul Prime Pack" />
+        <meta property="og:description" content="Matbaa ve baskı sektöründe Istanbul Prime Pack'in vizyonu, misyonu ve başarıları hakkında bilgi edinin." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.medyaambalaj.com/hakkimizda" />
-        <meta property="og:image" content="https://www.medyaambalaj.com/images/og-default.jpg" />
-        <link rel="canonical" href="https://www.medyaambalaj.com/about" />
+        <meta property="og:url" content="https://www.istanbulprimepack.com/hakkimizda" />
+        <meta property="og:image" content="https://www.istanbulprimepack.com/images/og-default.jpg" />
+        <link rel="canonical" href="https://www.istanbulprimepack.com/about" />
       </Helmet>
       <ReusableBackground>
         <Box sx={{ minHeight: "100vh", py: 4, mb: 5, textAlign: "center" }}>

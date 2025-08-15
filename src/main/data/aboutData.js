@@ -6,7 +6,7 @@ const aboutData = {
     shortContent: [
       {
         heading: "Kalite ve Güven",
-        text: "Medya Ambalaj olarak 25 yılı aşkın tecrübemizle, her projede kaliteyi ve güveni önceliklendiriyoruz. Müşteri odaklı yaklaşımımız ve güçlü iş ortaklıklarımızla sektörde fark yaratıyoruz."
+        text: "Istanbul Prime Pack olarak 25 yılı aşkın tecrübemizle, her projede kaliteyi ve güveni önceliklendiriyoruz. Müşteri odaklı yaklaşımımız ve güçlü iş ortaklıklarımızla sektörde fark yaratıyoruz."
       },
       {
         heading: "Yenilikçi Üretim Teknolojisi",
@@ -20,7 +20,7 @@ const aboutData = {
     longContent: {
       whoAreWe: {
         title: "Biz Kimiz?",
-        description: `Medya Ambalaj, 2000 yılından bu yana ambalaj ve baskı sektöründe kaliteli ve ekonomik çözümler sunan öncü bir kuruluştur.
+        description: `Istanbul Prime Pack, 2000 yılından bu yana ambalaj ve baskı sektöründe kaliteli ve ekonomik çözümler sunan öncü bir kuruluştur.
 Küçük bir atölye olarak başladığımız bu yolculukta, müşteri odaklı yaklaşımımız ve kalite anlayışımız sayesinde sektörde önemli bir konuma ulaştık.
 Günümüzde geniş makine parkurumuz ve deneyimli ekibimizle Türkiye ve dünya genelindeki markalara güvenilir iş ortağı olarak hizmet veriyoruz.`,
         image: whoAreWePhoto,
@@ -30,7 +30,7 @@ Günümüzde geniş makine parkurumuz ve deneyimli ekibimizle Türkiye ve dünya
       },
       vision: {
         title: "Vizyonumuz",
-        description: `Medya Ambalaj olarak vizyonumuz, baskı ve ambalaj sektöründe yenilikçi teknolojilerle lider konuma ulaşmak ve sürdürülebilir üretim anlayışıyla sektöre yön vermektir.
+        description: `Istanbul Prime Pack olarak vizyonumuz, baskı ve ambalaj sektöründe yenilikçi teknolojilerle lider konuma ulaşmak ve sürdürülebilir üretim anlayışıyla sektöre yön vermektir.
 Müşterilerimize hızlı, kaliteli ve çevreci çözümler sunarak, yalnızca Türkiye'de değil, uluslararası pazarda da güvenilir bir marka olmayı hedefliyoruz.
 Dijital dönüşüm ve akıllı ambalaj çözümleriyle sektörde fark yaratan projelere imza atmaya devam edeceğiz.`,
         backgroundColor: "secondary.main",

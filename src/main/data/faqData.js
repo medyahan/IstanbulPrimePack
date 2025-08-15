@@ -33,7 +33,7 @@ Acil siparişleriniz için ekspres hizmetimiz mevcuttur.`
     },
     {
       question: "Hangi baskı tekniklerini kullanıyorsunuz?",
-      answer: `Medya Ambalaj olarak geniş bir baskı teknolojisi yelpazesi sunmaktayız:
+      answer: `Istanbul Prime Pack olarak geniş bir baskı teknolojisi yelpazesi sunmaktayız:
 - **Ofset Baskı:** Yüksek hacimli ve kaliteli baskılar için idealdir.
 - **Dijital Baskı:** Küçük adetli ve hızlı çözümler için uygundur.
 - **Serigrafi Baskı:** Özellikle tekstil ve promosyon ürünlerinde kullanılır.

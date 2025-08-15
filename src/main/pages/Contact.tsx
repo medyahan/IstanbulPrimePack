@@ -65,14 +65,14 @@ const Contact = () => {
   return (
     <Layout>
       <Helmet>
-        <title>İletişim | Medya Ambalaj</title>
-        <meta name="description" content="Medya Ambalaj ile iletişime geçin. Profesyonel baskı ve ambalaj çözümlerimiz hakkında bilgi alın." />
-        <meta name="keywords" content="iletişim, medya ambalaj, baskı, ambalaj, teklif, email, whatsapp" />
-        <meta property="og:title" content="İletişim | Medya Ambalaj" />
+        <title>İletişim | Istanbul Prime Pack</title>
+        <meta name="description" content="Istanbul Prime Pack ile iletişime geçin. Profesyonel baskı ve ambalaj çözümlerimiz hakkında bilgi alın." />
+        <meta name="keywords" content="iletişim, istanbul prime pack, baskı, ambalaj, teklif, email, whatsapp" />
+        <meta property="og:title" content="İletişim | Istanbul Prime Pack" />
         <meta property="og:description" content="Bizimle iletişime geçerek kaliteli baskı çözümlerimiz hakkında detaylı bilgi alabilirsiniz." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.medyaambalaj.com/contact" />
-        <link rel="canonical" href="https://www.medyaambalaj.com/contact" />
+        <meta property="og:url" content="https://www.istanbulprimepack.com/contact" />
+        <link rel="canonical" href="https://www.istanbulprimepack.com/contact" />
       </Helmet>
 
       <ReusableBackground>

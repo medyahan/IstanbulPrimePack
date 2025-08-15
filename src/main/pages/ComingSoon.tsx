@@ -33,7 +33,7 @@ const ComingSoon = () => {
     <StyledContainer>
       {/* Logo */}
       <Box sx={{ mb: 3 }}>
-        <img src={logo} alt="Medya Ambalaj Logo" style={{ width: "450px" }} />
+        <img src={logo} alt="Istanbul Prime Pack Logo" style={{ width: "450px" }} />
       </Box>
 
       {/* Başlık */}
@@ -54,10 +54,10 @@ const ComingSoon = () => {
       {/* İletişim Bilgileri */}
       <Box sx={{ mt: 4 }}>
         <Typography variant="body2" sx={{ color: "#3A3A3A", fontWeight: "bold" }}>
-         İletişim için: info@medyaambalaj.com
+         İletişim için: info@istanbulprimepack.com
         </Typography>
         <Typography variant="body2" sx={{ color: "#3A3A3A", fontWeight: "bold" }}>
-          Teklif almak için: sales@medyaambalaj.com
+          Teklif almak için: sales@istanbulprimepack.com
         </Typography>
       </Box>
     </StyledContainer>

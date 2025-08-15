@@ -5,7 +5,7 @@ import React from "react";
 const servicesData = {
     title: "Hizmetlerimiz",
     subTitle: "Ambalaj ve Baskı Çözümlerinde Profesyonel Hizmet",
-    description: "Medya Ambalaj olarak, matbaa sektöründeki deneyimimizle işletmenizin ihtiyaçlarına yönelik yenilikçi ve kaliteli çözümler sunuyoruz. Ofset, dijital baskı ve ambalaj tasarımlarında mükemmelliği hedefliyoruz.",
+    description: "Istanbul Prime Pack olarak, matbaa sektöründeki deneyimimizle işletmenizin ihtiyaçlarına yönelik yenilikçi ve kaliteli çözümler sunuyoruz. Ofset, dijital baskı ve ambalaj tasarımlarında mükemmelliği hedefliyoruz.",
     services: [
       {
         id: 1,

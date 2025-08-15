@@ -12,7 +12,7 @@ import React from "react";
 const heroData = {
   title: "Yaratıcı Ambalaj\nGüvenilir Baskı\nProfesyonel Çözümler",
   description:
-    "Medya Ambalaj olarak, markanızı en iyi şekilde temsil edecek yaratıcı ve kaliteli baskı çözümleri sunuyoruz. İster küçük işletme olun, ister büyük ölçekli üretim; her adımda yanınızdayız.",
+    "Istanbul Prime Pack olarak, markanızı en iyi şekilde temsil edecek yaratıcı ve kaliteli baskı çözümleri sunuyoruz. İster küçük işletme olun, ister büyük ölçekli üretim; her adımda yanınızdayız.",
   button: {
     text: "Teklif Al",
     link: "/quote"

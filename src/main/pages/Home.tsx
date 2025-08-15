@@ -12,26 +12,26 @@ const Home = () => {
   return (
     <Layout>
       <Helmet>
-  <title>Ana Sayfa | Medya Ambalaj</title>
-  <meta name="description" content="Yaratıcı ambalaj çözümleri ve kaliteli baskı hizmetleriyle Medya Ambalaj, markanızı en iyi şekilde yansıtır." />
+  <title>Ana Sayfa | Istanbul Prime Pack</title>
+  <meta name="description" content="Yaratıcı ambalaj çözümleri ve kaliteli baskı hizmetleriyle Istanbul Prime Pack, markanızı en iyi şekilde yansıtır." />
   <meta name="robots" content="index, follow" />
-  <meta property="og:title" content="Ana Sayfa | Medya Ambalaj" />
-  <meta property="og:description" content="Medya Ambalaj olarak yaratıcı baskı ve ambalaj çözümleri sunuyoruz. Hemen bizimle iletişime geçin!" />
+  <meta property="og:title" content="Ana Sayfa | Istanbul Prime Pack" />
+  <meta property="og:description" content="Istanbul Prime Pack olarak yaratıcı baskı ve ambalaj çözümleri sunuyoruz. Hemen bizimle iletişime geçin!" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.medyaambalaj.com" />
-  <link rel="canonical" href="https://www.medyaambalaj.com" />
+  <meta property="og:url" content="https://www.istanbulprimepack.com" />
+  <link rel="canonical" href="https://www.istanbulprimepack.com" />
 
   {/* Structured Data (Organization + WebSite) */}
   <script type="application/ld+json">
     {`{
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Medya Ambalaj",
-      "url": "https://www.medyaambalaj.com",
-      "logo": "https://www.medyaambalaj.com/images/logo.svg",
+      "name": "Istanbul Prime Pack",
+      "url": "https://www.istanbulprimepack.com",
+      "logo": "https://www.istanbulprimepack.com/images/logo.svg",
       "sameAs": [
-        "https://www.instagram.com/medyaambalaj",
-        "https://www.linkedin.com/company/medyaambalaj"
+        "https://www.instagram.com/istanbulprimepack",
+        "https://www.linkedin.com/company/istanbulprimepack"
       ]
     }`}
   </script>
@@ -39,8 +39,8 @@ const Home = () => {
     {`{
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "Medya Ambalaj",
-      "url": "https://www.medyaambalaj.com"
+      "name": "Istanbul Prime Pack",
+      "url": "https://www.istanbulprimepack.com"
     }`}
   </script>
 </Helmet>

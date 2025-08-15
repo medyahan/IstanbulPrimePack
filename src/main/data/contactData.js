@@ -5,7 +5,7 @@ const contactData = {
     companyInfo: {
       address: "Maltepe Mah. Litros Yolu 2. Matbaacılar Sitesi C Blok Kat 5 No: 23 Zeytinburnu/İstanbul, Türkiye",
       phone: "+90 544 913 71 07",
-      email: "info@medyaambalaj.com",
+      email: "info@istanbulprimepack.com",
       whatsappLink: "https://wa.me/905449137107"
     },
   

@@ -18,7 +18,7 @@ const BlogDetails = () => {
         <ReusableBackground>
           <Container sx={{ textAlign: "center", py: 10 }}>
             <Helmet>
-              <title>Makale Bulunamadı | Medya Ambalaj</title>
+              <title>Makale Bulunamadı | Istanbul Prime Pack</title>
               <meta name="robots" content="noindex" />
             </Helmet>
             <Typography variant="h5" color="error">
@@ -108,14 +108,14 @@ const BlogDetails = () => {
   return (
     <Layout>
       <Helmet>
-        <title>{selectedPost.title} | Medya Ambalaj</title>
+        <title>{selectedPost.title} | Istanbul Prime Pack</title>
         <meta name="description" content={selectedPost.excerpt || selectedPost.title} />
-        <meta property="og:title" content={`${selectedPost.title} | Medya Ambalaj`} />
+        <meta property="og:title" content={`${selectedPost.title} | Istanbul Prime Pack`} />
         <meta property="og:description" content={selectedPost.excerpt || selectedPost.title} />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content={`https://www.medyaambalaj.com/blog/${selectedPost.id}`} />
+        <meta property="og:url" content={`https://www.istanbulprimepack.com/blog/${selectedPost.id}`} />
         {selectedPost.image && <meta property="og:image" content={selectedPost.image} />}
-        <link rel="canonical" href={`https://www.medyaambalaj.com/blog/${selectedPost.id}`} />
+        <link rel="canonical" href={`https://www.istanbulprimepack.com/blog/${selectedPost.id}`} />
       </Helmet>
 
       <ReusableBackground>
