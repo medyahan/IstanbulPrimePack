@@ -61,7 +61,6 @@ import mug from "../../assets/images/products/mug.webp";
 import nameTag1 from "../../assets/images/products/name-tag-1.webp";
 import nameTag2 from "../../assets/images/products/name-tag-2.webp";
 import nameTag from "../../assets/images/products/name-tag.webp";
-import notebook1 from "../../assets/images/products/notebook-1.webp";
 import notebook2 from "../../assets/images/products/notebook-2.webp";
 import notebook3 from "../../assets/images/products/notebook-3.webp";
 import notebook from "../../assets/images/products/notebook.webp";
@@ -395,7 +394,7 @@ const productsData = {
       id: "defter",
       title: "Defter",
       name: "Özel Tasarım ve Kişisel Defter Baskısı",
-      images: [notebook, notebook1, notebook2, notebook3],
+      images: [notebook, notebook2, notebook3],
       description: `
         Not almak, plan yapmak veya özel tasarımlı kurumsal defterler üretmek için yüksek kaliteli 
         defter baskı çözümlerimiz ideal bir tercih. Dayanıklı kaplama, özel kapak tasarımı ve 
